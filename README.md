@@ -17,6 +17,6 @@ PHP, Banco Mysql, Postman para testes via cURL
 
 ## suporte
 ```bash
-Zap: (85) 9 9150-8104 <br>
+Zap: (85) 9 9150-8104
 Mail: geraldo@gpsoft.com.br
 ```
